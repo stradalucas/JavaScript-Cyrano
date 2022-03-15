@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Supermercados Cyrano</title>
+
+    <!-- Favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="images/favicon_io/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="images/favicon_io/favicon-16x16.png">
+    <link rel="manifest" href="images/favicon_io/site.webmanifest">
+
+    <!-- style -->
+    <link rel="stylesheet" href="./index.css" />
+    <!-- script -->
+    <script defer src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+    <script defer src="https://kit.fontawesome.com/73b7ddbc6b.js" crossorigin="anonymous"></script>
+    <script defer type="module" src="./js/index.js"></script>
+    <script defer type="module" src="./js/productos.js"></script>
+    <script defer type="module" src="./js/mainDOM.js"></script>
+</head>
+
+<body>
+    <!-- Nav -->
+    <nav class="nav">
+        <div class="bars">
+            <i class="fas fa-bars"></i>
+        </div>
+        <h1 class="nav_titulo"><a href="index.html">CYRANO</a></h1>
+        <!-- Nav links -->
+        <ul class="nav_links">
+            <li><a href="#">CATEGORÍAS</a></li>
+            <li><a href="#">INGRESÁ</a></li>
+        </ul>
+        <!-- Carrito nav -->
+        <div class="carrito_nav">
+            <p>$<span class="carrito_nav_precio">0</span>.00</p>
+            <i class="fas fa-shopping-cart"></i>
+            <span class="carrito_nav_contador">0</span>
+        </div>
+    </nav>
+
+    <!-- Fondo Negro -->
+    <div class="fondo-negro"></div>
+
+    <!-- Carrito -->
+    <div class="carrito">
+        <div class="carrito_titulo carrito_header">
+            <p>Carrito de Compras</p>
+            <div class="exit_carrito"></div>
+        </div>
+        <div class="carrito_productos_contenedor"></div>
+        <div class="carrito_footer">
+            <div class="carrito_titulo">
+                <p>Total:</p>
+                <p>$<span class="carrito_total_precio">0</span>.00</p>
+            </div>
+            <div class="finalizar_compra">FINALIZAR COMPRA</div>
+        </div>
+    </div>
+    <!-- Nav Bars Links -->
+    <ul class="nav_bars">
+        <li>
+            <div class="nav_bars_exit"></div>
+        </li>
+        <li><a href=".#">Preguntas Frecuentes</a></li>
+        <li><a href=".#">Nosotros</a></li>
+        <li><a href=".#">Contacto</a></li>
+        <li>
+            <div class="nav_bars_redes">
+                <a href="#"><i class="fab fa-facebook-square"></i></a>
+                <a href="#"><i class="fab fa-instagram"></i></a>
+            </div>
+        </li>
+    </ul>
+    <!-- Productos -->
+    <h2 class="sección_titulo">Tienda</h2>
+    <div class="tienda_productos_contenedor">
+        <div class="productos_contenedor"></div>
+    </div>
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer_container">
+            <div class="footer_section">
+                <h3>INFORMACIÓN</h3>
+                <ul>
+                    <li class="footer_section_link">
+                        <a href="#">Nosotros</a>
+                    </li>
+                    <li class="footer_section_link">
+                        <a href="#">Preguntas Frecuentes</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="footer_section">
+                <h3>AYUDA</h3>
+                <ul>
+                    <li class="footer_section_link">
+                        <a href="#">Cómo Comprar</a>
+                    </li>
+                    <li class="footer_section_link">
+                        <a href="#">Política de Cambios</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="footer_section">
+                <h3>SEGUINOS</h3>
+                <div class="footer_redes">
+                    <a href="#"><i class="fab fa-facebook-square"></i></a>
+                    <a href="#"><i class="fab fa-instagram"></i></a>
+                </div>
+            </div>
+            <div class="footer_section">
+                <h3>CONTACTANOS</h3>
+                <ul>
+                    <li>Teléfono: +54 9 3492 575-2021</li>
+                    <li>Email: pedidos@supercyrano</li>
+                </ul>
+            </div>
+        </div>
+        <div class="medios_pago">
+            <h3>MEDIOS DE PAGO</h3>
+            <ul>
+                <li><img src="./images/visa.png" alt="tarjeta visa"></li>
+                <li><img src="./images/mastercard.png" alt="tarjeta mastercard"></li>
+                <li><img src="./images/amex.png" alt="tarjeta american express"></li>
+                <li><img src="./images/naranja.png" alt="tarjeta naranja"></li>
+                <li><img src="./images/mercadopago.png" alt="mercado pago"></li>
+            </ul>
+        </div>
+        <div class="copyright">
+            <p>© SUPERMERCADOS CYRANO - 2022. Todos los derechos reservados.</p>
+        </div>
+    </footer>
+
+</body>
+
+</html>

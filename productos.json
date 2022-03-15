@@ -1,0 +1,227 @@
+[{
+        "id": 0,
+        "nombre": "Nuggets Vegetalex 100% Vegetal 300g",
+        "precio": 320,
+        "imagen": {
+            "url": "nuggets.webp",
+            "alt": "Nuggets Vegetalex 100% Vegetal 300g"
+        }
+    }, {
+        "id": 1,
+        "nombre": "Mayonesa Hellmann's Clásica 475g",
+        "precio": 600,
+        "imagen": {
+            "url": "mayonesa.webp",
+            "alt": "Mayonesa Hellmann's Clásica 475g"
+        }
+    }, {
+        "id": 2,
+        "nombre": "Aceite de girasol Natura 1.5l",
+        "precio": 265,
+        "imagen": {
+            "url": "natura.webp",
+            "alt": "Aceite de girasol Natura 1.5l"
+        }
+    }, {
+        "id": 3,
+        "nombre": "Aceite de Oliva Virgen Extra Altos Limpios Laur 500mL",
+        "precio": 1500,
+        "imagen": {
+            "url": "aceite-oliva.jpg",
+            "alt": "Aceite de Oliva Virgen Extra Altos Limpios Laur 500mL"
+        }
+    }, {
+        "id": 4,
+        "nombre": "Galletitas Pepitos 119g",
+        "precio": 130,
+        "imagen": {
+            "url": "pepitos.webp",
+            "alt": "Galletiras Pepitos"
+        }
+    }, {
+        "id": 5,
+        "nombre": "Galletita Oreo Clásicas 117g",
+        "precio": 117,
+        "imagen": {
+            "url": "oreo.webp",
+            "alt": "Galletita Oreo Clásicas 117g"
+        }
+    }, {
+        "id": 6,
+        "nombre": "Galletitas Variedad 410g",
+        "precio": 218,
+        "imagen": {
+            "url": "variedad.webp",
+            "alt": "Galletitas Variedad 410g"
+        }
+    }, {
+        "id": 7,
+        "nombre": "Chocolate Cofler Aire 100g",
+        "precio": 210,
+        "imagen": {
+            "url": "cofler.webp",
+            "alt": "Chocolate Cofler Aire 100g"
+        }
+    }, {
+        "id": 8,
+        "nombre": "Cerveza Heineken Rubia Lata 473mL Pack x6",
+        "precio": 1107,
+        "imagen": {
+            "url": "Heineken.webp",
+            "alt": "Cerveza Heineken Rubia Lata 473mL Pack x6"
+        }
+    }, {
+        "id": 9,
+        "nombre": "Cerveza Andes Origen Roja Lager roja 473mL Pack x6",
+        "precio": 1096,
+        "imagen": {
+            "url": "andes.webp",
+            "alt": "Cerveza Andes Origen Roja Lager roja 473mL Pack x6"
+        }
+    }, {
+        "id": 10,
+        "nombre": "Agua mineral Eco de los Andes 1.5l",
+        "precio": 86,
+        "imagen": {
+            "url": "eco.webp",
+            "alt": "Agua mineral Eco de los Andes"
+        }
+    }, {
+        "id": 11,
+        "nombre": "Agua mineral Villavicencio 500mL",
+        "precio": 104,
+        "imagen": {
+            "url": "villavicencio.webp",
+            "alt": "Agua mineral Villavicencio 500mL"
+        }
+    }, {
+        "id": 12,
+        "nombre": "Castañas de Cajú 1kg",
+        "precio": 1850,
+        "imagen": {
+            "url": "caju.jpg",
+            "alt": "Castañas de Cajú"
+        }
+    }, {
+        "id": 13,
+        "nombre": "Garbanzos 1kg",
+        "precio": 180,
+        "imagen": {
+            "url": "garbanzos.jpg",
+            "alt": "Garbanzos"
+        }
+    }, {
+        "id": 14,
+        "nombre": "Arvejas Enteras 1kg",
+        "precio": 120,
+        "imagen": {
+            "url": "arvejas.jpg",
+            "alt": "Arvejas Enteras"
+        }
+    }, {
+        "id": 15,
+        "nombre": "Almendras 1kg",
+        "precio": 1600,
+        "imagen": {
+            "url": "almendras.jpg",
+            "alt": "Almendras"
+        }
+    }, {
+        "id": 16,
+        "nombre": "Shampoo Elvive 6 Óleos de flores preciosas 400mL",
+        "precio": 305,
+        "imagen": {
+            "url": "elvive.webp",
+            "alt": "Shampoo Elvive 6 Óleos de flores preciosas 400mL"
+        }
+    }, {
+        "id": 17,
+        "nombre": "Shampoo Pantene Pro-V Miracles 400mL",
+        "precio": 443,
+        "imagen": {
+            "url": "pantene.webp",
+            "alt": "Shampoo Pantene Pro-V Miracles 400mL"
+        }
+    }, {
+        "id": 18,
+        "nombre": "Pasta dental Sensodyne Rápido Alivio 100g",
+        "precio": 693,
+        "imagen": {
+            "url": "sensodyne.webp",
+            "alt": "Pasta dental Sensodyne Rápido Alivio 100g"
+        }
+    }, {
+        "id": 19,
+        "nombre": "Pasta dental Colgate Sensitive Pro-Alivio White 90g",
+        "precio": 343,
+        "imagen": {
+            "url": "colgate.webp",
+            "alt": "Pasta dental Colgate Sensitive Pro-Alivio White 90g"
+        }
+    }, {
+        "id": 20,
+        "nombre": "Pedigree óptima digestión adulto 21kg",
+        "precio": 4852,
+        "imagen": {
+            "url": "pedigree.webp",
+            "alt": "Pedigree óptima digestión adulto 21kg"
+        }
+    }, {
+        "id": 21,
+        "nombre": "Dog Chow salud visible adulto 21kg",
+        "precio": 5225,
+        "imagen": {
+            "url": "dogchow.webp",
+            "alt": "Dog Chow salud visible adulto 21kg"
+        }
+    }, {
+        "id": 22,
+        "nombre": "Whiskas gato adulto sabor pollo 10.1kg",
+        "precio": 3289,
+        "imagen": {
+            "url": "dogchow.webp",
+            "alt": "Whiskas gato adulto sabor pollo 10.1kg"
+        }
+    }, {
+        "id": 23,
+        "nombre": "Agility Premium gato adulto sabor mix 10kg",
+        "precio": 4505,
+        "imagen": {
+            "url": "agility.webp",
+            "alt": "Agility Premium gato adulto sabor mix 10kg"
+        }
+    }, {
+        "id": 24,
+        "nombre": "Jabón Líquido Skip Doypack 3l",
+        "precio": 693,
+        "imagen": {
+            "url": "skip.webp",
+            "alt": "Jabón Líquido Skip Doypack 3l"
+        }
+    }, {
+        "id": 25,
+        "nombre": "Jabón líquido Woolite Ropa Oscura 1.5l",
+        "precio": 610,
+        "imagen": {
+            "url": "woolite.webp",
+            "alt": "Jabón líquido Woolite Ropa Oscura 1.5l"
+        }
+    }, {
+        "id": 26,
+        "nombre": "Suavizante Comfort Clásico 900mL",
+        "precio": 217,
+        "imagen": {
+            "url": "comfort.webp",
+            "alt": "Suavizante Comfort Clásico 900mL"
+        }
+    },
+    {
+        "id": 27,
+        "nombre": "Jabón líquido Ala Matic Camellito 900mL",
+        "precio": 329,
+        "imagen": {
+            "url": "ala.webp",
+            "alt": "Jabón líquido Ala Matic Camellito 900mL"
+        }
+    }
+]
